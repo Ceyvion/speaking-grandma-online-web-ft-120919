@@ -1,4 +1,6 @@
-def speak_to_grandma(grandma.upcase)
+def speak_to_grandma(phrase)
+  if #{phrase} 
+  
   
 end
 
