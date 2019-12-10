@@ -21,4 +21,4 @@ def speak_to_grandma(phrase)
 # 'I LOVE YOU TOO PUMPKIN!'
 end
 
-speak_to_grandma("Hello there")
+speak_to_grandma('Hi Nana, how are you?')
